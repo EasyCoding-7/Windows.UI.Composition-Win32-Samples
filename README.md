@@ -1,5 +1,15 @@
 # Visual layer samples for desktop applications
 
+## 개인 Comment
+
+* Win32 각종 UI 기능 Sample
+
+### Todo
+
+- [ ] nothing
+
+---
+
 This repository contains samples that demonstrate the use of Window.UI.Composition APIs in WPF, Windows Forms, and C++ Win32 applications.
 
 The Visual layer provides a high performance, retained-mode API for graphics, effects, and animations. It's the foundation for UI across Windows 10 devices. UWP XAML controls are built on the Visual layer, and it enables many aspects of the [Fluent Design System](../design/fluent-design-system/index.md), such as Light, Depth, Motion, Material, and Scale.
